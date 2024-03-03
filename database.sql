@@ -1,0 +1,7 @@
+CREATE TABLE user(
+    nim INT PRIMARY KEY,
+    nama VARCHAR(100) NOT NULL,
+    kelas VARCHAR(25) NOT NULL,
+    email VARCHAR(100) NOT NULL
+);
+
